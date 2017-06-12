@@ -1,0 +1,25 @@
+# solver parameters are as follows
+net: "train.prototxt"
+# do not validate for GPU memeory limitation
+test_initialization: false
+display: 1
+average_loss: 1
+test_iter: 0
+test_interval: 987654321
+max_iter: 987654321
+# deal with the limited gpu size: iter_size * batch_size(train_prototxt) = mini_batch_size(to update)
+# iter_size: 1
+# learning policy with parameters
+type: "SGD"
+lr_policy: "step"
+base_lr: 0.00001
+stepsize: 32000
+gamma: 0.7
+weight_decay: 0.0002
+momentum: 0.9
+# snapshot
+snapshot: 200
+snapshot_prefix: "experiment_snapshot/"
+solver_mode: GPU
+# information for debugging
+debug_info: true
