@@ -2,7 +2,7 @@
 The Source Code of "Deep Metric Learning with False Positive Probability: Trade off Hard Levels in a Weighted Way"
 
 Download our trained models at: 
-https://1drv.ms/f/s!AoXSzSXfXCKzoTKiOKM7Fr0EB73q
+https://pan.baidu.com/s/1c15SJgk
 
 ## Citing this work 
 
