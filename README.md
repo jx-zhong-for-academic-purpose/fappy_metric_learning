@@ -4,6 +4,7 @@
 The Source Code of "Deep Metric Learning with False Positive Probability: Trade off Hard Levels in a Weighted Way"
 
 Download our trained models at: 
+
 https://github.com/jx-zhong-for-academic-purpose/fappy_metric_learning/releases/download/models/models.zip
 
 ## Citing this work 
